@@ -1,11 +1,3 @@
-To make your README look **properly formatted and highlighted**, you need to use **Markdown section headers, code blocks, and bullet formatting**.
-
-Right now your README looks plain because GitHub Markdown requires the correct symbols.
-
-Below is the **fixed, fully formatted, copy-paste-ready version** with proper highlighting, indentation, code blocks, and headers.
-
----
-
 # Dyslexia Handwriting Reversal Classifier (YES/NO)
 
 This repository contains a binary classifier that detects whether a handwritten character exhibits reversal patterns commonly associated with dyslexic writing. The system uses a convolutional neural network trained on grayscale character images sorted into three categories: Corrected, Normal, and Reversal. These categories are mapped into a binary decision:
